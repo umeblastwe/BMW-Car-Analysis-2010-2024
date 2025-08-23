@@ -37,7 +37,7 @@ The report provides insights into **regional preferences, market trends, fuel ty
 
 ---
 
-## 📸 Dashboard Previews
+## Dashboard Previews
 
 | Page | Screenshot |
 |-------|------------|
@@ -55,11 +55,6 @@ The report provides insights into **regional preferences, market trends, fuel ty
 - **Power BI Desktop** – Data modeling & dashboard creation  
 - **Excel** – Data preprocessing  
 
-
-
-## 🧑‍💻 Author
 Created by **[Umaid Bawany]**
 
 
-## 🧑‍💻 Author
-Created by **[Umaid]**
