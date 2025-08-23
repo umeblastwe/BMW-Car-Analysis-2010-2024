@@ -40,12 +40,13 @@ The report provides insights into **regional preferences, market trends, fuel ty
 ## 📸 Dashboard Previews
 | Page | Screenshot |
 |-------|------------|
-| Overview | ![Overview](images/Overview.png) |
-| Regional Analysis | ![Regional Analysis](images/Regional%20Analysis.png) |
-| Yearly Analysis | ![Yearly Analysis](images/Yearly%20Analysis.png) |
-| Car Model Analysis | ![Car Model Analysis](images/Car%20Model%20Analysis.png) |
-| Fuel Type & Mileage Analysis | ![Fuel Type & Mileage Analysis](images/Fuel%20Type%20&%20Mileage%20Analysis.png) |
-| Manual & Automatic Analysis | ![Manual & Automatic Analysis](images/Manual%20&%20Automatic%20Analysis.png) |
+| Overview | ![Overview](BMW%20car%20analysis/Overview.png) |
+| Regional Analysis | ![Regional Analysis](BMW%20car%20analysis/Regional%20Analysis.png) |
+| Yearly Analysis | ![Yearly Analysis](BMW%20car%20analysis/Yearly%20Analysis.png) |
+| Car Model Analysis | ![Car Model Analysis](BMW%20car%20analysis/Car%20Model%20Analysis.png) |
+| Fuel Type & Mileage Analysis | ![Fuel Type & Mileage Analysis](BMW%20car%20analysis/Fuel%20Type%20&%20Mileage%20Analysis.png) |
+| Manual & Automatic Analysis | ![Manual & Automatic Analysis](BMW%20car%20analysis/Manual%20&%20Automatic%20Analysis.png) |
+
 
 ---
 
